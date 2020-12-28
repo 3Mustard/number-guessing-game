@@ -1,0 +1,13 @@
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\bin\Debug\netcoreapp3.1\numberGuesser.exe
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\bin\Debug\netcoreapp3.1\numberGuesser.deps.json
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\bin\Debug\netcoreapp3.1\numberGuesser.runtimeconfig.json
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\bin\Debug\netcoreapp3.1\numberGuesser.runtimeconfig.dev.json
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\bin\Debug\netcoreapp3.1\numberGuesser.dll
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\bin\Debug\netcoreapp3.1\numberGuesser.pdb
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\obj\Debug\netcoreapp3.1\numberGuesser.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\obj\Debug\netcoreapp3.1\numberGuesser.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\obj\Debug\netcoreapp3.1\numberGuesser.AssemblyInfo.cs
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\obj\Debug\netcoreapp3.1\numberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\obj\Debug\netcoreapp3.1\numberGuesser.dll
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\obj\Debug\netcoreapp3.1\numberGuesser.pdb
+C:\Users\Matt\Desktop\vvv\coding\c#\numberGuesser\obj\Debug\netcoreapp3.1\numberGuesser.genruntimeconfig.cache
